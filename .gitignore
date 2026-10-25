@@ -1,0 +1,15 @@
+# results and caches produced when the notebooks are run
+output_*/
+*_POSTPROCESSING_*/
+bodyfat_exact_primal_by_expected_size*/
+prior_sensitivity_results/
+diagnostics/
+logs/
+build/
+__pycache__/
+*.so
+*.c
+.ipynb_checkpoints/
+p5000/data_5000/
+.DS_Store
+p30/varbvs/output_p30/
